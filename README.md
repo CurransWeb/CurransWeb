@@ -7,7 +7,7 @@ At CurransWeb, we're passionate about creating beautiful and functional websites
 - **CMS Web Design:** We specialize in Content Management System (CMS) websites, making it easy for you to manage your site's content.
 - **Full HTML and CSS:** For those who need custom-designed websites, we offer full HTML and CSS development to bring your vision to life.
 - **Ecommerce Websites:** We can build robust and secure ecommerce websites to help you establish your online store.
-- **Marketing & Seo: ** We not only build eye catching websites, we can market them and get them ranking on google!
+- **Marketing & Seo:** We not only build eye catching websites, we can market them and get them ranking on google!
 
 ## Services
 
